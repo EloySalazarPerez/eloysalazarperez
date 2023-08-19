@@ -1,7 +1,12 @@
 ### Hi there 👋
 ### Hola a Todos  👋
 
+Hello there, my name Eloy Salazar Perez  ,  I'm a Software Developer, I have experience working on several projects for various companies,reate innovative and engaging UI designs.
 
+Currently, I am working on several projects that involve user interfaces, including:
+
+ I have expertise in using :
+JavaFx, javaScript, Spring, HTML5, CSS3, JDBC, NodeJs, MySql, Firebirds, Oracle
 <!--
 **EloySalazarPerez/eloysalazarperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
